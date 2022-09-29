@@ -1,0 +1,5 @@
+C:\Users\henry\source\repos\SignIn-System\SignIn.UI\obj\Debug\net5.0\SignIn.UI.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\SignIn-System\SignIn.UI\obj\Debug\net5.0\SignIn.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\source\repos\SignIn-System\SignIn.UI\obj\Debug\net5.0\SignIn.UI.AssemblyInfoInputs.cache
+C:\Users\henry\source\repos\SignIn-System\SignIn.UI\obj\Debug\net5.0\SignIn.UI.AssemblyInfo.cs
+C:\Users\henry\source\repos\SignIn-System\SignIn.UI\obj\Debug\net5.0\SignIn.UI.csproj.CoreCompileInputs.cache

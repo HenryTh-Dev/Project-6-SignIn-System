@@ -1,0 +1,14 @@
+C:\Users\henry\source\repos\SignIn-System\SignIn.Domain\bin\Debug\net6.0\SignIn.Domain.deps.json
+C:\Users\henry\source\repos\SignIn-System\SignIn.Domain\bin\Debug\net6.0\SignIn.Domain.dll
+C:\Users\henry\source\repos\SignIn-System\SignIn.Domain\bin\Debug\net6.0\SignIn.Domain.pdb
+C:\Users\henry\source\repos\SignIn-System\SignIn.Domain\obj\Debug\net6.0\SignIn.Domain.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\SignIn-System\SignIn.Domain\obj\Debug\net6.0\SignIn.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\source\repos\SignIn-System\SignIn.Domain\obj\Debug\net6.0\SignIn.Domain.AssemblyInfoInputs.cache
+C:\Users\henry\source\repos\SignIn-System\SignIn.Domain\obj\Debug\net6.0\SignIn.Domain.AssemblyInfo.cs
+C:\Users\henry\source\repos\SignIn-System\SignIn.Domain\obj\Debug\net6.0\SignIn.Domain.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\SignIn-System\SignIn.Domain\obj\Debug\net6.0\SignIn.Domain.dll
+C:\Users\henry\source\repos\SignIn-System\SignIn.Domain\obj\Debug\net6.0\refint\SignIn.Domain.dll
+C:\Users\henry\source\repos\SignIn-System\SignIn.Domain\obj\Debug\net6.0\SignIn.Domain.pdb
+C:\Users\henry\source\repos\SignIn-System\SignIn.Domain\obj\Debug\net6.0\ref\SignIn.Domain.dll
+C:\Users\henry\source\repos\SignIn-System\SignIn.Domain\bin\Debug\net6.0\SignIn.Domain.runtimeconfig.json
+C:\Users\henry\source\repos\SignIn-System\SignIn.Domain\obj\Debug\net6.0\SignIn.Domain.genruntimeconfig.cache

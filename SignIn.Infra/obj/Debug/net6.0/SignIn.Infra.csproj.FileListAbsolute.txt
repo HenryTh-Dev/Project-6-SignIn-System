@@ -1,0 +1,17 @@
+C:\Users\henry\source\repos\SignIn-System\SignIn.Infra\obj\Debug\net6.0\SignIn.Infra.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\SignIn-System\SignIn.Infra\obj\Debug\net6.0\SignIn.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\source\repos\SignIn-System\SignIn.Infra\obj\Debug\net6.0\SignIn.Infra.AssemblyInfoInputs.cache
+C:\Users\henry\source\repos\SignIn-System\SignIn.Infra\obj\Debug\net6.0\SignIn.Infra.AssemblyInfo.cs
+C:\Users\henry\source\repos\SignIn-System\SignIn.Infra\obj\Debug\net6.0\SignIn.Infra.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\SignIn-System\SignIn.Infra\bin\Debug\net6.0\SignIn.Infra.deps.json
+C:\Users\henry\source\repos\SignIn-System\SignIn.Infra\bin\Debug\net6.0\SignIn.Infra.dll
+C:\Users\henry\source\repos\SignIn-System\SignIn.Infra\bin\Debug\net6.0\SignIn.Infra.pdb
+C:\Users\henry\source\repos\SignIn-System\SignIn.Infra\bin\Debug\net6.0\SignIn.Domain.dll
+C:\Users\henry\source\repos\SignIn-System\SignIn.Infra\bin\Debug\net6.0\SignIn.Domain.pdb
+C:\Users\henry\source\repos\SignIn-System\SignIn.Infra\obj\Debug\net6.0\SignIn.Infra.csproj.CopyComplete
+C:\Users\henry\source\repos\SignIn-System\SignIn.Infra\obj\Debug\net6.0\SignIn.Infra.dll
+C:\Users\henry\source\repos\SignIn-System\SignIn.Infra\obj\Debug\net6.0\refint\SignIn.Infra.dll
+C:\Users\henry\source\repos\SignIn-System\SignIn.Infra\obj\Debug\net6.0\SignIn.Infra.pdb
+C:\Users\henry\source\repos\SignIn-System\SignIn.Infra\obj\Debug\net6.0\ref\SignIn.Infra.dll
+C:\Users\henry\source\repos\SignIn-System\SignIn.Infra\bin\Debug\net6.0\SignIn.Infra.runtimeconfig.json
+C:\Users\henry\source\repos\SignIn-System\SignIn.Infra\obj\Debug\net6.0\SignIn.Infra.genruntimeconfig.cache
